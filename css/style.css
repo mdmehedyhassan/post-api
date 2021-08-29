@@ -3,3 +3,11 @@ body{
     background-color: #11142d;
     color: #fff;
 }
+
+.main-post-div{
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.main-post-div:hover{
+    box-shadow: 10px 10px 30px rgb(225, 224, 190);
+}
